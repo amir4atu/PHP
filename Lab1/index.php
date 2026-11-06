@@ -5,7 +5,7 @@ const DISCIPLINE = "Программирование на PHP";
 const MIN_SUM_FOR_BONUS = 5000; // Порог для успешного статуса
 
 // === ПЕРЕМЕННЫЕ И ТИПЫ ДАННЫХ ===
-$studentName = "Жолдас Қайсар"; // string
+$studentName = "Тынайбеков Амир"; // string
 $group = "ИС-23-22";          // string
 $course = 3;                   // int
 $variant = 2;                  // int
